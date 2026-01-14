@@ -16,24 +16,6 @@ This template was created based on the academic instructions available as of **J
 
 ---
 
-## Project Structure
-
-The project is organized to keep the main directory clean and the content modular:
-
-.
-├── main.tex             # The central driver file (compile this for the full thesis)
-├── references.bib       # Database of your citations
-├── logo.png             # Place the IISER Tirupati logo here
-├── README.md            # This documentation file
-└── chapters/            # Folder containing individual content files
-    ├── ch1_intro.tex
-    ├── ch2_model.tex
-    ├── ch3_results.tex
-    ├── ch4_summary.tex
-    └── appendix-A.tex
-
----
-
 ## Getting Started
 
 ### 1. Personalize Your Data
